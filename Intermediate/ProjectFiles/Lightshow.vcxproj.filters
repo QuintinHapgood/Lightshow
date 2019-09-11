@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Lightshow.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F90C80A4-511D-4DD3-957F-12764D654485}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lightshow.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LightshowEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C3C23375-0520-49AF-A06F-157FC8523D19}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Lightshow">
+      <UniqueIdentifier>{48E41EA1-753A-4518-8902-63B32FAD4262}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lightshow\Lightshow.Build.cs">
+      <Filter>Source\Lightshow</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Lightshow\Lightshow.cpp">
+      <Filter>Source\Lightshow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lightshow\Lightshow.h">
+      <Filter>Source\Lightshow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lightshow\LightshowBlock.cpp">
+      <Filter>Source\Lightshow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lightshow\LightshowBlock.h">
+      <Filter>Source\Lightshow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lightshow\LightshowBlockGrid.cpp">
+      <Filter>Source\Lightshow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lightshow\LightshowBlockGrid.h">
+      <Filter>Source\Lightshow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lightshow\LightshowGameMode.cpp">
+      <Filter>Source\Lightshow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lightshow\LightshowGameMode.h">
+      <Filter>Source\Lightshow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lightshow\LightshowPawn.cpp">
+      <Filter>Source\Lightshow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lightshow\LightshowPawn.h">
+      <Filter>Source\Lightshow</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lightshow\LightshowPlayerController.cpp">
+      <Filter>Source\Lightshow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lightshow\LightshowPlayerController.h">
+      <Filter>Source\Lightshow</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

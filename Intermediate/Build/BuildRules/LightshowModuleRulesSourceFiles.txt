@@ -1,0 +1,3 @@
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Source\Lightshow\Lightshow.Build.cs
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Source\Lightshow.Target.cs
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Source\LightshowEditor.Target.cs

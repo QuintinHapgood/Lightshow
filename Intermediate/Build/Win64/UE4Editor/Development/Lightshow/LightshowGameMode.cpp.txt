@@ -1,0 +1,11 @@
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\Definitions.Lightshow.h
+c:\users\soundwave\documents\unreal projects\lightshow\source\lightshow\LightshowGameMode.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Inc\Lightshow\LightshowGameMode.generated.h
+c:\users\soundwave\documents\unreal projects\lightshow\source\lightshow\LightshowPlayerController.h
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Inc\Lightshow\LightshowPlayerController.generated.h
+c:\users\soundwave\documents\unreal projects\lightshow\source\lightshow\LightshowPawn.h
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Inc\Lightshow\LightshowPawn.generated.h

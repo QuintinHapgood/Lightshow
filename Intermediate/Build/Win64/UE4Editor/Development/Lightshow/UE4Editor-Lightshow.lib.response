@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Lightshow.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\LightshowEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\Lightshow.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowBlock.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowBlockGrid.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowGameMode.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowPawn.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowPlayerController.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\Lightshow.init.gen.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowBlock.gen.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowBlockGrid.gen.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowGameMode.gen.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowPawn.gen.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\LightshowPlayerController.gen.cpp.obj"
+"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\Default.rc2.res"
+/OUT:"C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\UE4Editor-Lightshow.lib"
+/INCLUDE:IMPLEMENT_MODULE_Lightshow

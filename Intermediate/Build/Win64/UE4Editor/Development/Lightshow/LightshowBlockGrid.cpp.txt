@@ -1,0 +1,7 @@
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\Definitions.Lightshow.h
+c:\users\soundwave\documents\unreal projects\lightshow\source\lightshow\LightshowBlockGrid.h
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Inc\Lightshow\LightshowBlockGrid.generated.h
+c:\users\soundwave\documents\unreal projects\lightshow\source\lightshow\LightshowBlock.h
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Inc\Lightshow\LightshowBlock.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h

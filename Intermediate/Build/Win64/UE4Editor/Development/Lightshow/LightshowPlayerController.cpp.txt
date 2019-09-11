@@ -1,0 +1,3 @@
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Development\Lightshow\Definitions.Lightshow.h
+c:\users\soundwave\documents\unreal projects\lightshow\source\lightshow\LightshowPlayerController.h
+C:\Users\Soundwave\Documents\Unreal Projects\Lightshow\Intermediate\Build\Win64\UE4Editor\Inc\Lightshow\LightshowPlayerController.generated.h
